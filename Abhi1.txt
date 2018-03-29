@@ -1,1 +1,2 @@
 Hi this is my 1st commit in this git
+This is my 2nd ommit
